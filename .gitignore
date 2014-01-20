@@ -1,18 +1,10 @@
-*.gem
-*.rbc
+*.tgz
+*.tar.gz
+vendor/bundle
 .bundle
-.config
-coverage
-InstalledFiles
-lib/bundler/man
-pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
-tmp
-
-# YARD artifacts
-.yardoc
-_yardoc
-doc/
+.DS_Store
+build/*
+tmp/
+Gemfile.lock
+test/support/chef-10.gemfile.lock
+test/support/chef-11.gemfile.lock
