@@ -35,6 +35,14 @@ None
 None
 
 
+## Contributors
+
+Many thanks go to the following [contributors](https://github.com/phlipper/chef-mdadm/graphs/contributors) who have helped to make this cookbook even better:
+
+* **[@brianhartsock](https://github.com/brianhartsock)**
+    * add `degraded-raid-fix` recipe
+
+
 ## Contributing
 
 1. Fork it
