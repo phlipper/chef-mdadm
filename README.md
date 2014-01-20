@@ -18,6 +18,7 @@ The following platforms are supported by this cookbook, meaning that the recipes
 ## Recipes
 
 * `mdadm` - The default recipe.
+* `mdadm::degraded-raid-fix` - Recipe for fixing a boot race condition where Ubuntu thinks the RAID is degraded.
 
 # Usage
 
