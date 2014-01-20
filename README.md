@@ -56,6 +56,6 @@ Many thanks go to the following [contributors](https://github.com/phlipper/chef-
 
 **chef-mdadm**
 
-* Freely distributable and licensed under the [MIT license](http://phlipper.mit-license.org/2012/license.html).
-* Copyright (c) 2012 Phil Cohen (github@phlippers.net) [![endorse](http://api.coderwall.com/phlipper/endorsecount.png)](http://coderwall.com/phlipper)  [![Gittip](http://img.shields.io/gittip/phlipper.png)](https://www.gittip.com/phlipper/)
+* Freely distributable and licensed under the [MIT license](http://phlipper.mit-license.org/2012-2014/license.html).
+* Copyright (c) 2012-2014 Phil Cohen (github@phlippers.net) [![endorse](http://api.coderwall.com/phlipper/endorsecount.png)](http://coderwall.com/phlipper)  [![Gittip](http://img.shields.io/gittip/phlipper.png)](https://www.gittip.com/phlipper/)
 * http://phlippers.net/
