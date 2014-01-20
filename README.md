@@ -1,4 +1,4 @@
-# chef-mdadm
+# chef-mdadm  [![Build Status](https://travis-ci.org/phlipper/chef-mdadm.png)](https://travis-ci.org/phlipper/chef-mdadm)
 
 ## Description
 
